@@ -1,6 +1,6 @@
 # Enterprise Retail Analytics — Profitability & Risk Dashboard
 
-**Live Dashboard:** [[YOUR-DASH-DEPLOYED-URL](https://enterprise-retail-analytics.onrender.com)]
+**Live Dashboard:** [[retail-analytics-dashboard](https://enterprise-retail-analytics.onrender.com)]
 
 ## Business Problem
 
